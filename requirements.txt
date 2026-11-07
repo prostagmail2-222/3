@@ -1,4 +1,4 @@
-aiogram==3.31.0
+a
 aiosqlite==0.22.1
 asyncpg==0.32.0
 python-dotenv==1.2.2
